@@ -1,0 +1,68 @@
+{
+  "client": {
+    "name": "Joshua James Bergin",
+    "email": "Berginjoshua1@gmail.com",
+    "notes": "Save client contact information and studio notes"
+  },
+  "project": {
+    "title": "Web App",
+    "category": "Web App",
+    "scopeNotes": "Configure project timeline, budget, and client delivery"
+  },
+  "account": {
+    "profileName": "Joshua James Bergin",
+    "emailAddress": "Berginjoshua1@gmail.com",
+    "availableBalance": 47986.00,
+    "withdrawalWalletAddress": ""
+  },
+  "investmentHistory": [
+    {
+      "date": "2019-03-08",
+      "deposit": 5000.00,
+      "withdrawal": 11750.00,
+      "withdrawalFee": 1586.00
+    },
+    {
+      "date": "2019-10-29",
+      "deposit": 4000.00,
+      "withdrawal": 12000.00,
+      "withdrawalFee": 1264.00
+    },
+    {
+      "date": "2020-01-06",
+      "deposit": 500.00,
+      "withdrawal": 2000.00,
+      "withdrawalFee": 300.00
+    },
+    {
+      "date": "2020-07-14",
+      "deposit": 7000.00,
+      "withdrawal": 16000.00,
+      "withdrawalFee": 2000.00
+    },
+    {
+      "date": "2021-02-10",
+      "deposit": 1000.00,
+      "withdrawal": 4000.00,
+      "withdrawalFee": 700.00
+    },
+    {
+      "date": "2021-09-20",
+      "deposit": 10000.00,
+      "withdrawal": 31000.00,
+      "withdrawalFee": 3900.00
+    },
+    {
+      "date": "2022-01-05",
+      "deposit": 6000.00,
+      "withdrawal": 14000.00,
+      "withdrawalFee": 1800.00
+    },
+    {
+      "date": "2022-04-12",
+      "deposit": 4000.00,
+      "profit": 12000.00,
+      "reinvestedOn": "2022-07-07"
+    }
+  ]
+}
